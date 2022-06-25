@@ -1,0 +1,6 @@
+TEXT&&NIHO&&4&&Niho!
+TEXT&&ANENE&&0&&Great job, you made it so far!
+TEXT&&ANENE&&1&&Every stage can be divided into two main parts: the field and the boss. 
+TEXT&&ANENE&&4&&Since you just beat the field part of this stage, it means you're halfway there! Keep it up!
+TEXT&&NIHO&&3&&...!
+ACTION&&TEXTEND

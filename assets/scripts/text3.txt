@@ -1,0 +1,8 @@
+TEXT&&NIHO&&1&&Niho!
+TEXT&&ANENE&&5&&Wow, congratulations! You beat the game!
+TEXT&&ANENE&&3&&I wish I could offer you some more stages to play... but oh well.
+TEXT&&ANENE&&1&&Even though this was a short demo game, I hope you enjoyed your experience!
+TEXT&&ANENE&&0&&If you have any questions or suggestions regarding SOUNDgame, please contact the developer through Discord: dawn#0465.
+TEXT&&ANENE&&4&&Thank you for playing!
+TEXT&&NIHO&&2&&Niho!
+ACTION&&TEXTEND

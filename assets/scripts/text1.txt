@@ -1,0 +1,14 @@
+TEXT&&ANENE&&5&&Welcome to SOUNDgame!
+TEXT&&ANENE&&1&&SOUNDgame is a bullet hell shooter, developed as the final project for the IPFGD course at KMU DigiPen 2022 by Hankyung Lee [DAWN].
+TEXT&&ANENE&&3&&Although this version has only one demo stage... (I totally didn't procrastinate until the day right before the deadline...)
+TEXT&&ANENE&&4&&I hope you have fun trying it out!
+TEXT&&ANENE&&0&&Before we get started, let me show you how the basic controls work.
+TEXT&&ANENE&&1&&The objective in SOUNDgame is simple. Dodge enemy bullets, and collect as many points as possible.
+TEXT&&ANENE&&1&&By pressing the arrow keys, you can move around your player ship-slash-main character:  Niho!
+TEXT&&NIHO&&5&&Niho?!
+TEXT&&ANENE&&4&&Be careful not to bump into the enemies or their bullets. Losing all your lives will result in a Game Over!
+TEXT&&ANENE&&0&&You can hold SHIFT while moving to slow down. It might help in situations where you have to position yourself precisely.
+TEXT&&ANENE&&1&&If you want to shoot your bullets, hold the Z key.
+TEXT&&ANENE&&1&&And in emergencies, you can press the X key to use a bomb -- you get three of them on each life, so time your bombs wisely.
+TEXT&&ANENE&&5&&That's about it! Good luck, and try to make it to the end with getting as little hits as possible!
+ACTION&&TEXTEND
